@@ -6,6 +6,7 @@ body, html {
   display: block;
   text-align: center;
   background: ;
+  background-size: cover;
 }
 
 .container, h1 {
